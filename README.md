@@ -10,7 +10,7 @@
 
 #### Languages:
 - <b>Weakly-Typed:</b> JavaScript, Node.js, Python, R
-- <b>Strongly-Typed:</b> TypeScript, Java
+- <b>Strongly-Typed:</b> Java
 
 #### Frontend:
 - <b>Web Development:</b> React, Redux, HTML5
