@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Julia!
 
 - 🔭 I’m currently working on integrating ML/AI into my projects, building apps with React Native, and learning Django & Swift!
-- 🦁 I am graduating from Barnard College of Columbia University in May 2022 🎓
+- 🦁 I graduated from Barnard College of Columbia University in May 2022 🎓
 - 👩🏼‍🎓 I graduated from The Grace Hopper Program at Fullstack Academy
 - 👨‍💻 Check out my personal website [http://www.juliacro.com/](http://www.juliacro.com/)
 - 😄 Pronouns: She/Her/Hers
